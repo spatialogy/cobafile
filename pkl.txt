@@ -1,0 +1,12 @@
+Data yang digunakan di lapangan:
+1. Data Citra di print out
+2. Data umum dari umum: jaringan jalan, hidrografi, fasilitas umum, 
+
+
+
+Tugas Bu Ani
+Turunan DEM:
+
+1. Data DEMNAS, Data RBI (Umum), Peta Citra di print out
+
+Kontur RBI, 
