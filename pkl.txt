@@ -10,3 +10,5 @@ Turunan DEM:
 1. Data DEMNAS, Data RBI (Umum), Peta Citra di print out
 
 Kontur RBI, 
+
+Peta 3D
