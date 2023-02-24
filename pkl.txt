@@ -12,3 +12,6 @@ Turunan DEM:
 Kontur RBI, 
 
 Peta 3D
+
+Tambah Tugas dari Pak Karen:
+Membuat peta Indonesia
